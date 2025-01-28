@@ -48,3 +48,7 @@ export default tseslint.config({
   },
 });
 ```
+
+Create a new project.
+Enable the Maps JavaScript API and Geolocation API.
+Generate an API key.
